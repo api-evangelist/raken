@@ -3,19 +3,18 @@
   "feeds": [
     {
       "source": "https://www.rakenapp.com/blog",
-      "feed_url": "https://www.rakenapp.com/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "feed_url": "",
+      "saved": 1,
+      "method": "agent-scrape"
     },
     {
       "source": "https://www.rakenapp.com/customers",
-      "feed_url": "https://www.rakenapp.com/customers",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 1,
+  "fetched": "2026-06-27T13:04:03Z",
+  "agent_pulled": "2026-06-27"
 }

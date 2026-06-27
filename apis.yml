@@ -100,7 +100,7 @@ common:
     url: https://developer.rakenapp.com/api/docs/index.html
   - type: ChangeLog
     url: https://developer.rakenapp.com/api/docs/recent_updates.html
-  - type: SignUp
+  - type: Signup
     url: https://app.rakenapp.com/signup
   - type: Login
     url: https://app.rakenapp.com/login
@@ -170,76 +170,76 @@ common:
     url: https://www.rakenapp.com/privacy-policy
   - type: Security
     url: https://www.rakenapp.com/security
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/procore
     name: Procore
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/quickbooks-online
     name: QuickBooks Online
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/quickbooks-desktop
     name: QuickBooks Desktop
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/sage-100-contractor
     name: Sage 100 Contractor
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/sage-300-cre
     name: Sage 300 CRE
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/sage-intacct
     name: Sage Intacct
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/foundation
     name: Foundation
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/deltek-computerease
     name: Deltek ComputerEase
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/viewpoint-vista
     name: Viewpoint Vista
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/viewpoint-spectrum
     name: Viewpoint Spectrum
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/paychex
     name: Paychex
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/points-north
     name: Points North
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/cmic
     name: CMiC
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/autodesk
     name: Autodesk
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/bluebeam
     name: Bluebeam
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/egnyte
     name: Egnyte
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/google-drive
     name: Google Drive
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/box
     name: Box
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/dropbox
     name: Dropbox
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/onedrive
     name: OneDrive
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/earthcam
     name: EarthCam
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/dronedeploy
     name: DroneDeploy
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/holobuilder
     name: HoloBuilder
-  - type: Integration
+  - type: Integrations
     url: https://www.rakenapp.com/integrations/truelook
     name: TrueLook
   - type: Features
