@@ -90,6 +90,8 @@ apis:
       - type: DeveloperPortal
         url: https://app.rakenapp.com/developer/apps
 common:
+  - type: DomainSecurity
+    url: security/raken-domain-security.yml
   - type: Website
     url: https://www.rakenapp.com
   - type: Portal
