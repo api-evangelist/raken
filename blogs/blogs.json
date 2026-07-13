@@ -2,19 +2,14 @@
   "repo": "raken",
   "feeds": [
     {
-      "source": "https://www.rakenapp.com/blog",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.rakenapp.com/customers",
-      "feed_url": "",
+      "feed_url": "https://www.rakenapp.com/customers",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-27T13:04:03Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
