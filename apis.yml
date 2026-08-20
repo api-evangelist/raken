@@ -43,6 +43,28 @@ tags:
   - Toolbox Talks
   - Checklists
   - Observations
+  - Project
+  - Subcontractors
+  - General Contractors
+  - Heavy Civil
+  - Jobsite
+  - Mobile
+  - Photos
+  - Equipment Tracking
+  - Materials
+  - Budgets
+  - Workforce
+tags_raw:
+  - Construction
+  - Construction Management
+  - Daily Reporting
+  - Field Management
+  - Time Tracking
+  - Production Tracking
+  - Safety
+  - Toolbox Talks
+  - Checklists
+  - Observations
   - Projects
   - Subcontractors
   - General Contractors
@@ -79,6 +101,19 @@ apis:
     humanURL: https://developer.rakenapp.com/api/docs/index.html
     baseURL: https://api.rakenapp.com/
     tags:
+      - Construction
+      - Daily Reports
+      - Project
+      - Timecards
+      - Shifts
+      - Work Logs
+      - Equipment
+      - Materials
+      - Observations
+      - Checklists
+      - Toolbox Talks
+      - Authentication
+    tags_raw:
       - Construction
       - Daily Reports
       - Projects
