@@ -16,3 +16,16 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: raken-procore-own
+  label: Procore (own)
+  partner: procore
+  partner_name: Procore (own)
+  category: Field Communications; Field Productivity; Quality & Safety
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://marketplace.procore.com/apps/raken
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
